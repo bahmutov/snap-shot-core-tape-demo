@@ -1,0 +1,17 @@
+{
+  "name": "snap-shot-core-tape-demo",
+  "version": "1.0.0",
+  "description": "Using snap-shot-core with tape test runner",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "tape spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "snap-shot-core": "^1.6.0",
+    "tape": "^4.6.3"
+  }
+}
